@@ -2,7 +2,9 @@
 
 [![jueqing-lu](https://img.shields.io/badge/jueqinglu-github-blue?logo=github)](https://github.com/OverfitFLow)
 
-Hi, I am currently a PhD candidate
+Hi, I am a PhD candidate and currently focusing on vision–language models.
+I have a strong ability to quickly adapt to new machine learning topics.
+I am always open to academic discussions and knowledge exchange.
 
 #### Contact
 

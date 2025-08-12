@@ -1,1 +1,5 @@
 
+- Monash Research Scholarship (FT) 2022
+- Monash Machine Learning unit & Applied Data Analysis unit Highest Score (2018 S2)
+- Monash Applied Data Analysis Kaggle winner (2018 S2)
+- Monash International Merit Scholarship 2018-2020
