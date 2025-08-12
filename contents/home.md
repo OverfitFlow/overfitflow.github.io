@@ -16,5 +16,4 @@ Master of Data Science, Monash University, 2017—2020.\
 Bachelor of Information System (Environment), Shanghai Ocean University, 2013—2017.
 
 #### Research Interests
-Deep Learning, Multimodal Learning, Multiview Learning
-
+Multimodal Learning, Multiview Learning, Semi-supervised Learning
