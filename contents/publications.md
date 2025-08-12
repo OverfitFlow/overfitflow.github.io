@@ -1,5 +1,4 @@
-#### Preprints & Under Review
-
+#### Preprints
 - <strong>Jueqing Lu</strong>, Yuanyuan Qi, Xiaohao Yang, Shujie Zhou, Lan Du. 2025. "Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities." arXiv preprint arXiv:2505.08283.
 
 #### Published Papers
