@@ -1,6 +1,6 @@
 
 
-[![jueqing-lu](https://img.shields.io/badge/jueqinglu-github-blue?logo=github)](https://github.com/OverfitFLow)
+[![jueqing-lu](https://img.shields.io/badge/OverfitFlow-github-blue?logo=github)](https://github.com/OverfitFLow)
 
 Hi, I am a PhD candidate and currently focusing on vision–language models.\
 I have a strong ability to quickly adapt to new machine learning topics.\
