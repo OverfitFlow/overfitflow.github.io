@@ -1,8 +1,8 @@
-#### Submitted
+#### Preprints & Under Review
 
 - <strong>Jueqing Lu</strong>, Yuanyuan Qi, Xiaohao Yang, Shujie Zhou, Lan Du. 2025. "Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities." arXiv preprint arXiv:2505.08283.
 
-#### Published
+#### Published Papers
 
 - <strong>Jueqing Lu</strong>, Wray Buntine, Yuanyuan Qi, Joanna Dipnall, Belinda Gabbe, and
 Lan Du. 2025. Navigating Conflicting Views: Harnessing Trust for Learning. In Proceedings
