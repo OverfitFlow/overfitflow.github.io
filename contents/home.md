@@ -2,10 +2,8 @@
 
 [![jueqing-lu](https://img.shields.io/badge/jueqinglu-github-blue?logo=github)](https://github.com/OverfitFLow)
 
-Hi, I am a PhD candidate and currently focusing on vision–language models.
-
-I have a strong ability to quickly adapt to new machine learning topics.
-
+Hi, I am a PhD candidate and currently focusing on vision–language models.\
+I have a strong ability to quickly adapt to new machine learning topics.\
 I am always open to academic discussions and knowledge exchange.
 
 #### Contact
@@ -13,6 +11,7 @@ I am always open to academic discussions and knowledge exchange.
 Email: jueqing[dot]lu[at]monash.edu
 
 #### Education
+Ph.D, Machine Learning, Multi-Modal Learning, Monash University, 2022-2026
 M.E., Data Science, Monash University, 2017—2020.\
 B.E., Information System (Environment), Shanghai Ocean University, 2013—2017.
 
