@@ -16,5 +16,5 @@ M.E., Data Science, Monash University, 2017—2020.\
 B.E., Information System (Environment), Shanghai Ocean University, 2013—2017.
 
 #### Research Interests
-Deep Learning, Multi-Modal Learning
+Deep Learning, Multi-Modal Learning, Multi-View Learning
 
