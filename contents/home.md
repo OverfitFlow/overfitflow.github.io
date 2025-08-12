@@ -11,10 +11,10 @@ I am always open to academic discussions and knowledge exchange.
 Email: jueqing[dot]lu[at]monash.edu
 
 #### Education
-Doctor of Philosophy, Machine Learning, Multi-Modal Learning, Monash University, 2022-2026.\
+Doctor of Philosophy, Machine Learning, Multimodal Learning, Monash University, 2022-2026.\
 Master of Data Science, Monash University, 2017—2020.\
 Bachelor of Information System (Environment), Shanghai Ocean University, 2013—2017.
 
 #### Research Interests
-Deep Learning, Multi-Modal Learning, Multi-View Learning
+Deep Learning, Multimodal Learning, Multiview Learning
 
