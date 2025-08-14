@@ -14,7 +14,7 @@
   <a href="https://arxiv.org/abs/2503.02231">paper</a>, <a href="https://github.com/BoCheng-96/CGMatch">code</a>
 
 - [UAI 2025] Multi-Label Bayesian Active Learning with Inter-Label Relationships \
-  Yuanyuan Qi, Jueqing Lu, Xiaohao Yang, Joanne Enticott, Lan Du\
+  Yuanyuan Qi, <u>Jueqing Lu</u>, Xiaohao Yang, Joanne Enticott, Lan Du\
   <a href="https://arxiv.org/abs/2411.17941">paper</a>, <a href="https://github.com/qijindou/CRAB">code</a>
 
 - [EMNLP 2020] Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs \
