@@ -1,5 +1,5 @@
 #### Preprints
-- "Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities."\
+- Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities \
   <u>Jueqing Lu</u>, Yuanyuan Qi, Xiaohao Yang, Shujie Zhou, Lan Du\
   <a href="https://arxiv.org/abs/2505.08283">paper</a>, code coming soon
 
