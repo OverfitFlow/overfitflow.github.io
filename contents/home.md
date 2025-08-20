@@ -3,9 +3,8 @@
 [![jueqing-lu](https://img.shields.io/badge/OverfitFlow-github-blue?logo=github)](https://github.com/OverfitFLow)
 
 Hi, I am a PhD candidate and about to submitting thesis.\
-I am looking for looking for an industry job.
-I have a strong ability to quickly adapt to new machine learning topics.\
-I am always open to academic discussions and knowledge exchange.
+I am looking for looking for an industry job.\
+I have a strong ability to quickly adapt to new machine learning topics.
 
 #### Contact
 
