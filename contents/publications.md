@@ -18,7 +18,7 @@
   <a href="https://arxiv.org/abs/2411.17941">paper</a>, <a href="https://github.com/qijindou/CRAB">code</a>
 
 - [ACL 2025] Neural Topic Modeling with Large Language Models in the Loop \
-  Xiaohao Yang, He Zhao, Weijie Xu, Yuanyuan Qi, Jueqing Lu, Dinh Phung, Lan Du \
+  Xiaohao Yang, He Zhao, Weijie Xu, Yuanyuan Qi, <u>Jueqing Lu</u>, Dinh Phung, Lan Du \
   <a href="https://aclanthology.org/2025.acl-long.70.pdf">paper</a>, <a href="https://github.com/Xiaohao-Yang/LLM-ITL">code</a>
 
 - [EMNLP 2020] Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs \
