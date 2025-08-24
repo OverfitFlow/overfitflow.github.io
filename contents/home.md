@@ -1,6 +1,7 @@
 
 
-[![jueqing-lu](https://img.shields.io/badge/OverfitFlow-github-blue?logo=github)](https://github.com/OverfitFLow)
+[![jueqing-lu](https://img.shields.io/badge/OverfitFlow-Github-blue?logo=github)](https://github.com/OverfitFLow)
+[![jueqing-lu](https://img.shields.io/badge/Jueqing_Lu-Google_Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=YfPazL8AAAAJ&hl=en)
 
 Hi, I am a PhD candidate and about to submitting thesis.\
 I am looking for an industry job.\
