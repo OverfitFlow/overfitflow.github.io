@@ -15,8 +15,8 @@ jueqing[dot]lu[at]qq.com
 
 #### Education
 Doctor of Philosophy, Machine Learning, Multimodal Learning, Monash University, 2022-2026.\
-Master of Data Science, Monash University, 2017—2020.\
-Bachelor of Information System (Environment), Shanghai Ocean University, 2013—2017.
+Master of Data Science, Monash University, 2017/7—2018/11, 2019/7-2019/11. \
+Bachelor of Information System (Environment), Shanghai Ocean University, 2013/9—2017/6.
 
 #### Research Interests
 Multimodal Learning, Multiview Learning, Semi-supervised Learning
