@@ -1,7 +1,7 @@
 #### Preprints
 - DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities \
   <u>Jueqing Lu</u>, Yuanyuan Qi, Xiaohao Yang, Shuaicheng Niu, Fucai Ke, Shujie Zhou, Wei Tan, Jionghao Lin, Wray Buntine, Hamid Rezatofighi, Lan Du \
-  <a href="https://arxiv.org/abs/2505.08283">paper</a>, code coming soon
+  <a href="https://arxiv.org/abs/2505.08283v2">paper</a>, code coming soon
 
 #### Published Papers
 
