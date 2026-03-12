@@ -1,5 +1,5 @@
 #### Published Papers
-- [CVPR2026] DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities \
+- [CVPR 2026] DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities \
   <u>Jueqing Lu</u>, Yuanyuan Qi, Xiaohao Yang, Shuaicheng Niu, Fucai Ke, Shujie Zhou, Wei Tan, Jionghao Lin, Wray Buntine, Hamid Rezatofighi, Lan Du \
   paper coming soon, code coming soon
 
