@@ -1,13 +1,11 @@
-#### Preprints
+#### Published Papers
 - DPL: Decoupled Prototype Learning for Enhancing Robustness of Vision-Language Transformers to Missing Modalities \
   <u>Jueqing Lu</u>, Yuanyuan Qi, Xiaohao Yang, Shuaicheng Niu, Fucai Ke, Shujie Zhou, Wei Tan, Jionghao Lin, Wray Buntine, Hamid Rezatofighi, Lan Du \
-  <a href="https://arxiv.org/abs/2505.08283v2">paper</a>, code coming soon
-
-#### Published Papers
+  paper coming soon, code coming soon
 
 - [AAAI 2026] Next Generation Active Learning: Mixture of LLMs in the Loop \
   Yuanyuan Qi, Xiaohao Yang, <u>Jueqing Lu</u>, Guoxiang Guo, Joanne Enticott, Gang Liu, Lan Du \
-  paper coming soon, <a href="https://https://github.com/qijindou/MoLLIA">code</a>
+  <a href="https://arxiv.org/abs/2601.15773">paper</a>, <a href="https://https://github.com/qijindou/MoLLIA">code</a>
 
 - [ICML 2025] Navigating Conflicting Views: Harnessing Trust for Learning \
   <u>Jueqing Lu</u>, Wray Buntine, Yuanyuan Qi, Joanna Dipnall, Belinda Gabbe, Lan Du \
