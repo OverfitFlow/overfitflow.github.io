@@ -3,9 +3,14 @@
 [![jueqing-lu](https://img.shields.io/badge/OverfitFlow-Github-blue?logo=github)](https://github.com/OverfitFLow)
 [![jueqing-lu](https://img.shields.io/badge/Jueqing_Lu-Google_Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=YfPazL8AAAAJ&hl=en)
 
+
 Recent Ph.D. graduate from Monash University.
 
 Currently architecting LLM-based agents using the LangChain.
+
+Much of my research journey has been shaped by working independently in resource-constrained settings, where I took full ownership of problem formulation, experimentation, and implementation.
+
+This environment pushed me to develop strong self-learning ability, resilience, and the habit of critically evaluating both successful and unsuccessful research directions.
 
 #### Contact
 
